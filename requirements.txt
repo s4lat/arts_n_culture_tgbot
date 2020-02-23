@@ -1,0 +1,6 @@
+Click==7.0
+pyperclip==1.7.0
+numpy==1.16.0
+selenium==3.141.0
+Pillow==6.2.1
+unicode_slugify==0.1.3
